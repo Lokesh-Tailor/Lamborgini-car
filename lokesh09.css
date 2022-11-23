@@ -1,39 +1,32 @@
 *{
     padding: 0px;
     margin: 0px;
-}
-header{
-    display: flex;
+    box-sizing: border-box;
 }
 #main{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /* margin-left: 42mm; */
-
+   display: flex;
+   justify-content: space-between;
 }
 .one{
-    /* border: 3px solid black; */
-    margin: 20px;
-    /* height: 545px; */
-    border-radius: 25px;
+     padding: 50px;
+    margin: 10px;
 }
 .one h1{
-    margin-left: 10px;
+    margin-left: -1px;
     font-size: 32px;
 }
 .one p{
     font-size: 28px;
-    margin: 10px;
+    margin: -1px;
+    margin-top: 10px;
     
 }
-.one h2 
-{
-margin: 10px;
+.one h2{
+margin: 15px;
 padding: 5px;
 border: 3px solid black;
 width: 150px;
-margin-left: 20px;
+margin-left: -1px;
 text-align: center;
 color: white;
 background-color:black ;
