@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    display: flex;
+}
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 42mm; */
+
+}
+.one{
+    /* border: 3px solid black; */
+    margin: 20px;
+    /* height: 545px; */
+    border-radius: 25px;
+}
+.one h1{
+    margin-left: 10px;
+    font-size: 32px;
+}
+.one p{
+    font-size: 28px;
+    margin: 10px;
+    
+}
+.one h2 
+{
+margin: 10px;
+padding: 5px;
+border: 3px solid black;
+width: 150px;
+margin-left: 20px;
+text-align: center;
+color: white;
+background-color:black ;
+border-radius: 12px;
+}
+    
+    
